@@ -1,0 +1,40 @@
+city,station_code,population,Missing
+Albany,KALB,,Yes
+Atlanta,KATL,432427,No
+Baltimore,KBWI,619493,No
+Boise,KBOI,210145,No
+Boston,KBOS,625087,No
+Buffalo,KBUF,261025,No
+Burbank,KBUR,104092,No
+Chicago O'Hare,KORD,2707120,No
+Columbus,KCMH,797434,No
+Covington,KCVG,296223,No
+Dallas,KDFW,1223229,No
+Denver,KDEN,619968,No
+Detroit/Wayne,KDTW,706585,No
+Fresno,KFAT,501362,No
+Houston,KIAH,2145146,No
+Las Vegas,KLAS,589317,No
+Little Rock,KLIT,195314,No
+Los Angeles,KCQT,3819702,No
+Memphis,KMEM,652050,No
+Minneapolis,KMSP,387753,No
+Nashville,KBNA,609644,No
+New Orleans,KMSY,360740,No
+NYC/LaGuardia,KLGA,8244910,No
+Philadelphia,KPHL,1536471,No
+Phoenix/Sky HRBR,KPHX,1469471,No
+Pittsburgh,KPIT,307484,No
+Portland,KPDX,593820,No
+Portland,KPWM,593820,No
+Raleigh/Durham,KRDU,416468,No
+Richmond,KRIC,205533,No
+Sacramento/Execu,KSAC,472178,No
+Salt Lake City,KSLC,189899,No
+San Francisco,KSFO,812826,No
+Seattle,KSEA,620778,No
+Spokane,KGEG,210103,No
+St Louis/Lambert,KSTL,318069,No
+Wash DC/Dulles,KIAD,617996,No
+Washington,KDCA,617996,No
+Windsor Locks,KBDL,,Yes
